@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QaYlOP8ztVWLBFoRKzIAb+PtChTV6KYH4r6esDqos/oRm+/zXz739/H4pDzcEx7Rbqu75VZTaskDivwpdnWK8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raisa\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raisa\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\raisa\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\raisa\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
